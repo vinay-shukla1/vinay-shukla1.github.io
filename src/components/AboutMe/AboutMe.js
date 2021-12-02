@@ -31,13 +31,17 @@ export default function AboutMe() {
             vinayshukla.sdei@gmail.com
           </p>
           <p className="pt-8 text-sm lg:text-base flex-grow mb-auto">
-            A full stack programmer who needs more challenges and craving for
-            the newest knowledge of programming languages and technologies. I
-            was a student at University of applied science Berlin, German with
-            the major International Media Computing. In 2021, I joined a
-            Javascript Bootcamp for four months and graduate with the predicate
-            honors. At moment I work at Digital Lab Sprout as a{" "}
-            <span className="font-bold">Software Engineer</span>
+          Hi, I am a highly experienced Full Stack Developer/ Mobile Developer with 10+ professional experience . The fruit of our collaboration will be an appealing, user friendly and SEO optimized website which will stand out with its:</p>
+          <p className="pt-8 text-sm lg:text-base flex-grow mb-auto">
+
+✅ Top Design Pattern and Architecture-Quality information architecture improves the usability of your website.
+✅ Fully unit tested component with JEST. and error monitoring tool like Splunk
+✅ Mobile Friendliness-Having a mobile compatible website can definitely expand your reach. 
+✅ Page Loading Speed- Handling Performance and memory leakage is key of successfull app.
+✅ High Visual Appeal-Visitors stay in your site as it’s aesthetically pleasing.
+I believe communication is the key to every successful project. I’m here to understand your needs and create a product highly corresponding to your business goals. 
+{" "}
+            <span className="font-bold">Certified Developer</span>
           </p>
 
           <div className="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-green-500 opacity-25 lg:mt-20"></div>
