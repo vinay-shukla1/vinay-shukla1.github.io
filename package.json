@@ -1,7 +1,7 @@
 {
   "homepage": "http://vinay-shukla1.github.io/",
   "name": "vinay-cv",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.3.0",
