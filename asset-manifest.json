@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vinay-shukla1.github.io/static/css/main.dcdbfb7c.chunk.css",
+    "main.js": "/vinay-shukla1.github.io/static/js/main.54a989b5.chunk.js",
+    "main.js.map": "/vinay-shukla1.github.io/static/js/main.54a989b5.chunk.js.map",
+    "runtime-main.js": "/vinay-shukla1.github.io/static/js/runtime-main.9ee7621c.js",
+    "runtime-main.js.map": "/vinay-shukla1.github.io/static/js/runtime-main.9ee7621c.js.map",
+    "static/js/2.cd0c3530.chunk.js": "/vinay-shukla1.github.io/static/js/2.cd0c3530.chunk.js",
+    "static/js/2.cd0c3530.chunk.js.map": "/vinay-shukla1.github.io/static/js/2.cd0c3530.chunk.js.map",
+    "static/js/3.52805013.chunk.js": "/vinay-shukla1.github.io/static/js/3.52805013.chunk.js",
+    "static/js/3.52805013.chunk.js.map": "/vinay-shukla1.github.io/static/js/3.52805013.chunk.js.map",
+    "index.html": "/vinay-shukla1.github.io/index.html",
+    "static/css/main.dcdbfb7c.chunk.css.map": "/vinay-shukla1.github.io/static/css/main.dcdbfb7c.chunk.css.map",
+    "static/js/2.cd0c3530.chunk.js.LICENSE.txt": "/vinay-shukla1.github.io/static/js/2.cd0c3530.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ee7621c.js",
+    "static/js/2.cd0c3530.chunk.js",
+    "static/css/main.dcdbfb7c.chunk.css",
+    "static/js/main.54a989b5.chunk.js"
+  ]
+}
