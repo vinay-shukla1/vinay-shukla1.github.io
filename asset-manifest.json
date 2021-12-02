@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vinay-shukla1.github.io/static/css/main.dcdbfb7c.chunk.css",
-    "main.js": "/vinay-shukla1.github.io/static/js/main.54a989b5.chunk.js",
-    "main.js.map": "/vinay-shukla1.github.io/static/js/main.54a989b5.chunk.js.map",
+    "main.js": "/vinay-shukla1.github.io/static/js/main.411917a8.chunk.js",
+    "main.js.map": "/vinay-shukla1.github.io/static/js/main.411917a8.chunk.js.map",
     "runtime-main.js": "/vinay-shukla1.github.io/static/js/runtime-main.9ee7621c.js",
     "runtime-main.js.map": "/vinay-shukla1.github.io/static/js/runtime-main.9ee7621c.js.map",
     "static/js/2.cd0c3530.chunk.js": "/vinay-shukla1.github.io/static/js/2.cd0c3530.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9ee7621c.js",
     "static/js/2.cd0c3530.chunk.js",
     "static/css/main.dcdbfb7c.chunk.css",
-    "static/js/main.54a989b5.chunk.js"
+    "static/js/main.411917a8.chunk.js"
   ]
 }
