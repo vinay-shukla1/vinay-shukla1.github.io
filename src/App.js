@@ -7,7 +7,6 @@ import store from "./store";
 import Educations from "./components/Educations/Educations";
 import Portofolios from "./components/Portofolios/Portofolios";
 import WorkExperiences from "./components/WorkExperiences/WorkExperiences";
-import { useEffect } from "react";
 
 function App() {
   return (
